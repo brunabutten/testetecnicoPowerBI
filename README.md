@@ -11,6 +11,8 @@ Esse foi um projeto realizado para um teste técnico de uma vaga para Analista d
 
 Fiz a arte do dashboard no [Canva](https://www.canva.com) 😉
 
+Publicação no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7053779852906119168/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7053779852906119168%29)!
+
 <h1 align="center">Meu Dashboard produzido</h1>
 <p dir="auto"><img src="https://github.com/brunabutten/testetecnicoPowerBI/blob/main/Projeto%20t%C3%A9cnico%20pub.png" width="100%" style="max-width: 100%;"></p>
 
